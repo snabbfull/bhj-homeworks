@@ -19,3 +19,4 @@ fontSizeBtn.forEach((btn) => {
     }
   });
 });
+
